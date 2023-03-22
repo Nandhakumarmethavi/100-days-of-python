@@ -1,4 +1,4 @@
-'''print("hello world")
+print("hello world")
 
 #print on different line
 print("hello world\nhello world\nhello world")
@@ -29,7 +29,7 @@ b=5
 c=a
 a=b
 b=c
-print(a,b)'''
+print(a,b)
 
 #variable naming
 #no space in b/w name instead use _ underscore
